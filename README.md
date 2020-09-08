@@ -6,3 +6,5 @@ The BST implements basic methods such as size, add, get, contains and remove. It
 
 The ContactManager class uses two instances of the StringContactMap to keep track of its contacts. One keyed by phone number and another keyed by name.
 The InteractivePhoneBook class has an instance of the ContactManager class. It offers a console user interface which allows the user to interact with the ContactManager and, thus, the StringContactMap BST implementation.
+
+The CSV files can be read into the ContactManager using the InteractivePhoneBook UI.
